@@ -48,3 +48,10 @@ Views table:
 | 7    |
 +------+
 ```
+
+**Solution:**
+```
+SELECT DISTINCT author_id AS id
+FROM VIEWS
+WHERE author_id = viewer_id;
+```
