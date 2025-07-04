@@ -3,7 +3,7 @@
 
 ## Select
 
-[Recyclable and Low Fat Products](/Select/1757. Recyclable and Low Fat Products)
+[Recyclable and Low Fat Products](#1757. Recyclable and Low Fat Products)
 
 Find Customer Referee
 
