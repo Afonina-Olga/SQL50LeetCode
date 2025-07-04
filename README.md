@@ -3,7 +3,7 @@
 
 ## Select
 
-[Recyclable and Low Fat Products](#1757. Recyclable and Low Fat Products)
+[Recyclable and Low Fat Products](https://github.com/Afonina-Olga/SQL50LeetCode/blob/main/Select/1757.%20Recyclable%20and%20Low%20Fat%20Products.md)
 
 Find Customer Referee
 
